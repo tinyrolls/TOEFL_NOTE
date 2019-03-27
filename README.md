@@ -1,7 +1,4 @@
 # TOEFL_NOTE
-__新东方笔记活动参加中～__
-
-<https://github.com/tinyrolls/TOEFL_NOTE>
 
 ## 本项目的建立目的
 
